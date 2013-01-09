@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<buildpath>
-	<buildpathentry external="true" kind="lib" path="Z:/Projetos%20e%20Drivers/Workspace%20Projetos/JSF2_Caelum/ProjetoJSF2/WebContent/WEB-INF/lib/jsf-impl.jar"/>
-	<buildpathentry external="true" kind="lib" path="Z:/Projetos%20e%20Drivers/Workspace%20Projetos/JSF2_Caelum/ProjetoJSF2/WebContent/WEB-INF/lib/primefaces-3.1.1.jar"/>
-</buildpath>
